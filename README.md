@@ -1,6 +1,8 @@
 # Uni-of-York-Computer-Science
 
-This repository is a collection of all the coding based practicals from the first 2 years of my Computer Science Degree at the University of York
+This repository is a collection of all the coding based practicals from the first 2 years of my Computer Science Degree at the University of York.
+
+The module names are as following:
 
 Year 1:
   
