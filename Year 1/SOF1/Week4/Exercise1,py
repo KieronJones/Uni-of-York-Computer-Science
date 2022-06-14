@@ -1,0 +1,31 @@
+#Function 1
+def sum_all(n):
+    if n < 0:
+        return -1
+    else:
+        sum = 0
+        for i in range(n+1):
+            sum += i
+        return sum
+
+
+#Function 2
+def mul_table(n):
+    if n < 0:
+        return -1
+    else:
+        output = ""
+        for i in range(13):
+            output += (str(n) + " x " + str(i) + " = " + (str(n * i)) + "\n")
+        return output
+
+
+#Function 3
+def factorial(n):
+    if n < 0:
+        return -1
+    else:
+        factorial = 1
+        for i in range(n+1):
+            factorial *= i
+        return factorial
